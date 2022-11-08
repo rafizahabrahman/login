@@ -80,7 +80,18 @@
 
     </androidx.cardview.widget.CardView>
 
+    <TextView
+        android:id="@+id/tvSignUp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:padding="8dp"
+        android:text="Not yet registered? SignUp Now!"
+        android:textAlignment="center"
+        android:textColor="@color/teal"
+        android:textSize="14sp"
 
+        />
 
 
 </LinearLayout>
